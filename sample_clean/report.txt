@@ -1,0 +1,11 @@
+=== Prometheus Deobfuscation Report ===
+Input File:  sample_weak.lua
+Output File: sample_clean/sample_clean.lua
+
+- Outer functions unwrapped:   2
+- Anti-tamper checks removed:  0
+- Constant array inlined:      20
+- Strings decrypted:           0
+- Expressions folded:          0
+- Control flow restructured:   1 (if: 48, while: 3, repeat: 1)
+- Variables beautified:        8

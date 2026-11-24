@@ -1,0 +1,11 @@
+=== Prometheus Deobfuscation Report ===
+Input File:  demo_cff.lua
+Output File: output/output.lua
+
+- Outer functions unwrapped:   1
+- Anti-tamper checks removed:  0
+- Constant array inlined:      0
+- Strings decrypted:           0
+- Expressions folded:          0
+- Control flow restructured:   1 (if: 4, while: 2, repeat: 1)
+- Variables beautified:        5

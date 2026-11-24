@@ -1,0 +1,23 @@
+=== Extracted Literals & Constants ===
+
+-- ConstantArray Table (19 entries):
+  [1] = "'for' limit must be a number"
+  [2] = "__index"
+  [3] = "=== Algorithm Test Results ==="
+  [4] = "Access level:"
+  [5] = "Reverse count:"
+  [6] = "n"
+  [7] = "guest"
+  [8] = "admin"
+  [9] = "Sum of squares 1..5:"
+  [10] = "unpack"
+  [11] = "Primes under 20:"
+  [12] = "'for' step must be a number"
+  [13] = "__len"
+  [14] = "Fibonacci(10):"
+  [15] = "print"
+  [16] = "'for' initial value must be a number"
+  [17] = "#"
+  [18] = "member"
+  [19] = "__gc"
+

@@ -1,0 +1,21 @@
+{
+  "name": "prometheus-deobfuscator",
+  "version": "1.0.0",
+  "description": "Prometheus Lua Deobfuscator CLI",
+  "main": "cli.js",
+  "bin": {
+    "prometheus-deobf": "cli.js"
+  },
+  "scripts": {
+    "start": "node cli.js",
+    "deobfuscate": "node cli.js"
+  },
+  "keywords": [
+    "lua",
+    "deobfuscator",
+    "luau",
+    "prometheus",
+    "luajit"
+  ],
+  "license": "GPL-3.0"
+}

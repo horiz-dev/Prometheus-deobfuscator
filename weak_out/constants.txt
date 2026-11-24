@@ -1,0 +1,25 @@
+=== Extracted Literals & Constants ===
+
+-- ConstantArray Table (21 entries):
+  [1] = "Prometheus Deobfuscator Demo"
+  [2] = "Secret:"
+  [3] = "__gc"
+  [4] = "__index"
+  [5] = "'for' limit must be a number"
+  [6] = "n"
+  [7] = "print"
+  [8] = "Factorial of 5:"
+  [9] = "Status:"
+  [10] = "Fallback mode"
+  [11] = "'for' step must be a number"
+  [12] = "__len"
+  [13] = "unknown"
+  [14] = "Mode 2 active"
+  [15] = "Countdown finished at:"
+  [16] = "#"
+  [17] = "MY_SUPER_SECRET_KEY_12345"
+  [18] = "'for' initial value must be a number"
+  [19] = "Sum 1..10:"
+  [20] = "Mode 1 active"
+  [21] = "unpack"
+
